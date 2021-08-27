@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "root",
+    "password": "pass",
+    "database": "node_sequelize",
+    "host": "localhost",
+    "dialect": "postgres",
+    "privateKey": "privateKey"
+  },
+  
+  "production": {
+    "username": "root",
+    "password": "pass",
+    "database": "node_sequelize",
+    "host": "0.0.0.0",
+    "dialect": "postgres",
+    "privateKey": "privateKey"
+  }
+}
